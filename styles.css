@@ -1,0 +1,98 @@
+body {
+  background-color: #faf4ff;
+  font-family: "Monstserrat";
+  text-align: center;
+  margin: 0;
+}
+h1 {
+  font-size: 5rem;
+  font-weight: bold;
+  margin: 0%;
+}
+h2 {
+  font-family: "Pacifico";
+  font-size: 3.5rem;
+  margin: 0;
+}
+.container-fluid {
+  padding: 2% 10% 0%;
+}
+.content-box {
+  padding-top: 2%;
+}
+.content-img {
+  padding-top: 1%;
+}
+.text-area {
+  padding: 1%;
+  margin: 5%;
+}
+.btn {
+  box-shadow: inset 0px 0px 0px 0px #f7c5c0;
+  background: linear-gradient(to bottom, #fc8d83 5%, #e4685d 100%);
+  background-color: #fc8d83;
+  border-radius: 25px;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: Arial;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 10px 50px;
+  text-decoration: none;
+  text-shadow: 0px 1px 0px #b23e35;
+}
+.btn:hover {
+  background: linear-gradient(to bottom, #e4685d 5%, #fc8d83 100%);
+  background-color: #e4685d;
+}
+.btn:active {
+  position: relative;
+  top: 1px;
+}
+#footer {
+  color: #fcf8f3;
+  margin-top: 5%;
+  background-color: #ffb6b6;
+  padding: 2% 0% 1%;
+  line-height: 1.5;
+}
+.contact {
+  margin-top: 0;
+  font-size: 1.2rem;
+}
+.email {
+  font-size: 1.5rem;
+}
+.icon {
+  margin-right: 1%;
+  color: white;
+}
+.icon:hover {
+  color: #116979;
+}
+.copyright {
+  margin-top: 0;
+  padding-top: 1%;
+  color: #8f8f8f;
+}
+/*    javascript    */
+
+.doc-body {
+  background-color: #30475e;
+}
+.h1-text {
+  color: #ff6363;
+}
+.h2-text {
+  padding: 5% 15%;
+  color: #fcf8f3;
+  font-size: 2.5rem;
+}
+.img-js {
+  width: 10%;
+  padding-bottom: 5%;
+}
+.hide {
+  visibility: hidden;
+}
